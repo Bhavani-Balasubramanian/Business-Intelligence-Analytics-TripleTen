@@ -1,3 +1,5 @@
+🧩 Task 3: Analyzing Cash Acquisitions
+
 🎯 Objective
 
 To identify acquisition trends during the post-recession period (2011–2013), focusing on deals made in cash.
